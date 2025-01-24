@@ -17,7 +17,7 @@ Please first enter your API Key in `generate_causes.py`, then run the code:
         
     python generated_attributes.py
 
-## Runing the Code for DVP-cls & DVP-cse
+## Running the Code for DVP-cls & DVP-cse
 
     python experiments/fs_dvp_cls.py --dataset [dataset]
 	python experiments/fs_dvp_cse.py --dataset [dataset]
