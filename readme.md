@@ -15,7 +15,7 @@ Please download the attribute descriptions provided by `AttrVR` and put them und
 ### Step 3: Generating Causes
 Please first enter your API Key in `generate_causes.py`, then run the code:
         
-    python generated_attributes.py
+    python generated_causes.py
 
 ## Running the Code for DVP-cls & DVP-cse
 
