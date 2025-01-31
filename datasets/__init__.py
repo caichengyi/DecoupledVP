@@ -9,7 +9,6 @@ from .food101 import Food101
 from .oxford_flowers import OxfordFlowers
 from .stanford_cars import StanfordCars
 from .resisc45 import Resisc45
-from .imagenet import ImageNet
 from .utils import *
 
 basic_template = 'This is a photo of {}.'
@@ -25,7 +24,6 @@ dataset_list = {
                 "oxford_flowers": OxfordFlowers,
                 "stanford_cars": StanfordCars,
                 "resisc45": Resisc45,
-                "imagenet": ImageNet
                 }
 
 def build_dataset(dataset, root, shot=16, seed=0):
